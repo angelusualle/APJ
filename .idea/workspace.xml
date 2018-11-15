@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e408ad09-97c1-40b1-91a5-2d4c03fe6198" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.chalice/config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/APJ.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pip-selfcheck.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyvenv.cfg" afterDir="false" />
-    </list>
+    <list default="true" id="e408ad09-97c1-40b1-91a5-2d4c03fe6198" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,13 +15,14 @@
     <session id="-936695617">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -58,20 +47,35 @@
           <entry key="Python Console" value="279" />
           <entry key="cfg" value="58" />
           <entry key="gitignore" value="40" />
-          <entry key="py" value="2510" />
+          <entry key="py" value="2624" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Ini" value="58" />
           <entry key="PLAIN_TEXT" value="40" />
-          <entry key="Python" value="2789" />
+          <entry key="Python" value="2903" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="107" selection-start-line="17" selection-start-column="107" selection-end-line="17" selection-end-column="107" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+                <marker date="1542245448657" expanded="true" signature="756:2923" ph="..." />
+                <marker date="1542245448657" expanded="true" signature="1299:2085" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -86,9 +90,9 @@
       <list>
         <option value="$PROJECT_DIR$/.chalice/config.json" />
         <option value="$PROJECT_DIR$/requirements.txt" />
-        <option value="$PROJECT_DIR$/app.py" />
         <option value="$PROJECT_DIR$/pyvenv.cfg" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/app.py" />
       </list>
     </option>
   </component>
@@ -110,6 +114,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -126,7 +131,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -206,7 +210,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2577121" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26092544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -218,8 +222,8 @@
       <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5051414" side_tool="true" visible="true" weight="0.32884097" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49485862" visible="true" weight="0.32884097" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50578403" side_tool="true" visible="true" weight="0.32884097" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49421594" visible="true" weight="0.32884097" />
       <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.49871466" weight="0.32884097" />
       <window_info anchor="bottom" id="TODO" order="12" sideWeight="0.49807197" weight="0.32884097" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -295,12 +299,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+        <state relative-caret-position="289">
+          <caret line="17" column="107" selection-start-line="17" selection-start-column="107" selection-end-line="17" selection-end-column="107" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
-            <marker date="1542232629417" expanded="true" signature="620:2787" ph="..." />
-            <marker date="1542232629417" expanded="true" signature="1163:1949" ph="..." />
+            <marker date="1542245448657" expanded="true" signature="756:2923" ph="..." />
+            <marker date="1542245448657" expanded="true" signature="1299:2085" ph="..." />
           </folding>
         </state>
       </provider>
