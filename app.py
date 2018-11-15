@@ -13,6 +13,11 @@ logging.getLogger('flask_ask').setLevel(logging.INFO)
 APIUrl = 'https://api.desiringgod.org/'
 
 
+@ask.launch
+def launch():
+    return statement('Welcome to ask pastor john skill. Ask to play the latest episode or search for some')
+
+
 @ask.intent('AMAZON.PauseIntent')
 def pause():
     return audio('Paused the stream.').stop()
