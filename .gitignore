@@ -1,0 +1,9 @@
+.chalice/deployments/
+.chalice/venv/
+Scripts/
+ngrok.exe
+Include/
+Lib/
+man/
+requirements.txt
+zappa_settings.json
